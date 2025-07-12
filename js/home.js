@@ -24,19 +24,19 @@ const products = [
     id: 1,
     name: "Stylish Shoes",
     price: 999,
-    image: "images/img1.jpg"
+    image: "images/img1a.jpg"
   },
   {
     id: 2,
     name: "Smart Watch",
     price: 1999,
-    image: "images/img2.jpg"
+    image: "images/img2a.jpg"
   },
   {
     id: 3,
     name: "Cool Backpack",
     price: 1299,
-    image: "images/img3.jpg"
+    image: "images/img3a.jpg"
   }
 ];
 
