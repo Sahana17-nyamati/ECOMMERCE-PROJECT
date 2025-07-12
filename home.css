@@ -1,0 +1,35 @@
+
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f5f7fa;
+}
+
+nav h1 {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+}
+
+#product-container .card {
+  margin-bottom: 70px;
+  transition: transform 0.2s ease;
+}
+
+#product-container .card:hover {
+  transform: translateY(-5px);
+}
+
+.card-img-top {
+  height: 200px;
+  overflow: hidden;
+  text-align: center;
+}
+
+.card-img-top img {
+  height: 100%;
+  width: 100%;
+  /* object-fit: cover; */
+}
