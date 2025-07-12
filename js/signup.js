@@ -116,6 +116,6 @@ form.addEventListener('submit', (e) => {
 
     alert("Signup successful!");
     form.reset();
-    window.location.href = "login.html";
+    window.location.href = "index.html";
   }
 });

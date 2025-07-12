@@ -10,7 +10,7 @@ if (!loginData) {
 document.getElementById('logout-btn').addEventListener('click', () => {
   localStorage.removeItem('loginData');
   alert("Logged out successfully.");
-  window.location.href = "login.html";
+  window.location.href = "index.html";
 });
 
 // GO TO CART
