@@ -57,3 +57,9 @@ projectweb/
    git clone https://github.com/Sahana17-nyamati/ECOMMERCE-PROJECT.git
 
    git clone https://github.com/Sahana17-nyamati/ECOMMERCE-PROJECT.git
+
+---
+
+## 🔗 Live Demo
+
+👉 [Click here to view the live project](https://sahana17-nyamati.github.io/ECOMMERCE-PROJECT/)
