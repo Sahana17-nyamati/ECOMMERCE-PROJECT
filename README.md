@@ -53,5 +53,7 @@ projectweb/
 
 1. Clone the repository:
    
-bash
+```bash
+   git clone https://github.com/Sahana17-nyamati/ECOMMERCE-PROJECT.git
+
    git clone https://github.com/Sahana17-nyamati/ECOMMERCE-PROJECT.git
